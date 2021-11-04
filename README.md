@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @HarishSuvvari
+- 👋 Hi, I’m @HareshSuvvari
 - 👀 I’m interested in Data Science.
 - 🌱 I’m currently learning new trends in AI.
 - 💞️ I’m looking to collaborate on data science projects and full time work.
